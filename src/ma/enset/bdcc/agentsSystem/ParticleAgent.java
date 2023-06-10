@@ -1,4 +1,4 @@
-package ma.enset.bdcc.sma;
+package ma.enset.bdcc.agentsSystem;
 
 import jade.core.Agent;
 import jade.core.behaviours.Behaviour;

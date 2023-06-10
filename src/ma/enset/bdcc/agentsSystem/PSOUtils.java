@@ -1,4 +1,4 @@
-package ma.enset.bdcc.sma;
+package ma.enset.bdcc.agentsSystem;
 
 public class PSOUtils {
     public static final int MAX_ITERATIONS = 5;
